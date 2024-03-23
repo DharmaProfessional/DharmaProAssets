@@ -1,38 +1,39 @@
 [
 	{
-		"name":"Lord Shiva meditating.",
+		"name":"Lord Shiva Anime.",
 		"description":"",
 		"dateadded":"23-03-2024",
-		"url":"https://i.ibb.co/QrBS36q/pexels-abhishek-johri-18364244.jpg"
-		
+		"filename":"animeartlordshivameditating.jpeg"
 	},
 	{
-		"name":"Lord Shiva meditating.",
+		"name":"Long temple",
 		"description":"",
 		"dateadded":"23-03-2024",
-		"url":"https://i.ibb.co/2MwPKL3/pexels-axp-photography-16738848.jpg"
-		
+		"filename":"longtemple.jpg"
 	},
 	{
-		"name":"Lord Shiva meditating.",
+		"name":"Murdeshwara Shiva",
 		"description":"",
 		"dateadded":"23-03-2024",
-		"url":"https://i.ibb.co/xhdYhsz/pexels-mayur-rawte-1583244.jpg"
-		
+		"filename":"murdeshwarashiva.jpg"
 	},
 	{
-		"name":"Lord Shiva meditating.",
+		"name":"rajasthan temple.",
 		"description":"",
 		"dateadded":"23-03-2024",
-		"url":"https://i.ibb.co/K65tR53/pexels-setu-chhaya-7915296.jpg"
-		
+		"filename":"rajasthanitemple.jpg"
 	},
 	{
-		"name":"Lord Shiva meditating.",
+		"name":"Stone lord shiva",
 		"description":"",
 		"dateadded":"23-03-2024",
-		"url":"https://i.ibb.co/7J4TGGm/pexels-spoortesh-honey-3810915.jpg"
-		
+		"filename":"stoneshiva.jpg"
+	},
+	{
+		"name":"Stone temple wall",
+		"description":"",
+		"dateadded":"23-03-2024",
+		"filename":"templewallstones.jpg"
 	}
 ]
 
